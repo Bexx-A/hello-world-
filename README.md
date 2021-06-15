@@ -1,2 +1,2 @@
 # hello-world-
-Just a girl new to code trying to educate herself to something better. 
+Just a girl new to coding trying to educate herself to something better. 
